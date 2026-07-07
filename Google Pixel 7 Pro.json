@@ -26,12 +26,12 @@
                     "screenWidth":  1440,
                     "screenHeight":  3120,
                     "screenDensity":  512,
-                    "operatorAlpha":  "T-Mobile",
-                    "operatorNumeric":  "310260",
-                    "simOperatorAlpha":  "T-Mobile",
-                    "simOperatorNumeric":  "310260",
-                    "simCountryIso":  "us",
-                    "timezone":  "America/Los_Angeles",
+                    "operatorAlpha":  "NTT docomo",
+                    "operatorNumeric":  "44010",
+                    "simOperatorAlpha":  "NTT docomo",
+                    "simOperatorNumeric":  "44010",
+                    "simCountryIso":  "jp",
+                    "timezone":  "Asia/Tokyo",
                     "socModel":  "gs201",
                     "socManufacturer":  "Google"
                 }
