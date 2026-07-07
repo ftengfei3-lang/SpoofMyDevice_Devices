@@ -1,0 +1,32 @@
+{
+  "id": "iphone_15_pro",
+  "brandLabel": "Apple",
+  "modelLabel": "iPhone 15 Pro",
+  "summary": "iOS A17 Pro - 日本主流高端机",
+  "profile": {
+    "brand": "Apple",
+    "manufacturer": "Apple",
+    "model": "iPhone 15 Pro",
+    "product": "iPhone16,1",
+    "device": "iPhone16,1",
+    "board": "d84ap",
+    "hardware": "qcom",
+    "boardPlatform": "apple",
+    "buildFingerprint": "apple/iPhone16,1/iPhone16,1:17.0/21A329:user/release-keys",
+    "buildId": "21A329",
+    "buildDisplayId": "21A329",
+    "buildIncremental": "21A329",
+    "buildRelease": "17.0",
+    "buildSdk": 34,
+    "securityPatch": "2024-09-01",
+    "displayWidth": 1179,
+    "displayHeight": 2556,
+    "displayDensity": 460,
+    "operatorAlpha": "au",
+    "operatorNumeric": "44050",
+    "simOperatorAlpha": "au",
+    "simOperatorNumeric": "44050",
+    "simCountryIso": "jp",
+    "timeZone": "Asia/Tokyo"
+  }
+}

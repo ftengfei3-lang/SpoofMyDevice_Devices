@@ -1,0 +1,32 @@
+{
+  "id": "xperia_1_v",
+  "brandLabel": "Sony",
+  "modelLabel": "Xperia 1 V",
+  "summary": "Snapdragon 8 Gen 2 - 日本高端本土旗舰",
+  "profile": {
+    "brand": "Sony",
+    "manufacturer": "Sony",
+    "model": "XQ-DQ44",
+    "product": "XQ-DQ44",
+    "device": "XQ-DQ44",
+    "board": "kalama",
+    "hardware": "qcom",
+    "boardPlatform": "kalama",
+    "buildFingerprint": "sony/XQ-DQ44/XQ-DQ44:14/67.1.A.2.222/0703:user/release-keys",
+    "buildId": "67.1.A.2.222",
+    "buildDisplayId": "67.1.A.2.222",
+    "buildIncremental": "0703",
+    "buildRelease": "14",
+    "buildSdk": 34,
+    "securityPatch": "2024-05-01",
+    "displayWidth": 1644,
+    "displayHeight": 3840,
+    "displayDensity": 640,
+    "operatorAlpha": "au",
+    "operatorNumeric": "44050",
+    "simOperatorAlpha": "au",
+    "simOperatorNumeric": "44050",
+    "simCountryIso": "jp",
+    "timeZone": "Asia/Tokyo"
+  }
+}

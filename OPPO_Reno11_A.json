@@ -1,0 +1,32 @@
+{
+  "id": "oppo_reno11_a",
+  "brandLabel": "OPPO",
+  "modelLabel": "OPPO Reno11 A",
+  "summary": "Dimensity 7050 - 日本特供高性价比机型",
+  "profile": {
+    "brand": "OPPO",
+    "manufacturer": "OPPO",
+    "model": "Reno11 A",
+    "product": "reno11a",
+    "device": "reno11a",
+    "board": "MT6877",
+    "hardware": "mt6877",
+    "boardPlatform": "mt6877",
+    "buildFingerprint": "oppo/reno11a/reno11a:14/UK1A.230912.001/123456:user/release-keys",
+    "buildId": "UK1A.230912.001",
+    "buildDisplayId": "UK1A.230912.001",
+    "buildIncremental": "123456",
+    "buildRelease": "14",
+    "buildSdk": 34,
+    "securityPatch": "2024-05-05",
+    "displayWidth": 1080,
+    "displayHeight": 2412,
+    "displayDensity": 394,
+    "operatorAlpha": "Y!mobile",
+    "operatorNumeric": "44020",
+    "simOperatorAlpha": "Y!mobile",
+    "simOperatorNumeric": "44020",
+    "simCountryIso": "jp",
+    "timeZone": "Asia/Tokyo"
+  }
+}
